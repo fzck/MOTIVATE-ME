@@ -1,4 +1,5 @@
 # MOTIVATE-ME
+
 coding motivation
 when things get rough
 
@@ -10,3 +11,5 @@ https://medium.freecodecamp.com/what-nobody-tells-you-about-learning-to-code-and
 https://medium.com/@joyceakiko/how-to-rapidly-progress-when-learning-to-code-80c40d39eae1?utm_content=buffer76b02&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
+
+http://www.makeuseof.com/tag/programming-burnout-regain-lost-motivation/
