@@ -13,3 +13,5 @@ https://medium.com/@joyceakiko/how-to-rapidly-progress-when-learning-to-code-80c
 https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 
 http://www.makeuseof.com/tag/programming-burnout-regain-lost-motivation/
+
+http://blog.ilovecoding.org/shatter-your-fear-of-coding/
