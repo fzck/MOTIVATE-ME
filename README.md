@@ -15,3 +15,7 @@ https://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard
 http://www.makeuseof.com/tag/programming-burnout-regain-lost-motivation/
 
 http://blog.ilovecoding.org/shatter-your-fear-of-coding/
+
+https://medium.com/personal-growth/how-to-create-a-bulletproof-mindset-d6e488b6f368
+
+http://thoughtcatalog.com/becca-martin/2016/12/hate-to-break-it-to-you-but-you-are-the-reason-your-life-sucks-so-much/
